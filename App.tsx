@@ -12,7 +12,7 @@ import {View, Text} from 'react-native';
 const App = () => {
   return (
     <View style={{justifyContent: 'center', alignItems: 'center',marginTop:20,flex:1}}>
-      <Text>Hello World!{"\n"} Demo  App </Text>
+      <Text>Hello World!{"\n"} Demo  App {"\n"} Kishore DR </Text>
     </View>
   );
 };
